@@ -1,61 +1,24 @@
-# Hi Im Nargiz
+# Hi!
+##This is the Happy Team Readme File
 
 This is an copy file with maximal choices selected.
 I just copied from someones standart readme file so, don't expect something smart.
 
-This is a long description.
-
-## Merge Conflicts
-
-- [Security](#security)
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [API](#api)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Security
-
-### Any optional sections
-
-## Background
-
-### Any optional sections
-
-## Install
-
-This module depends upon a knowledge of [Markdown]().
-
-```
-```
-
-### Any optional sections
-
-## Usage
-
-```
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
-
-## API
-
-### Any optional sections
-
-## More optional sections
-
 ## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
-See [the contributing file](CONTRIBUTING.md)!
+## History
+TODO: Write history
 
-PRs accepted.
+## Credits
+TODO: Write credits
 
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-### Any optional sections
+## License
+Mit license
 
 ## License
 
